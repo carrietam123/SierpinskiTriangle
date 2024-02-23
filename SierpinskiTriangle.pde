@@ -1,12 +1,13 @@
 private int bl;
-public void setup()
-{
+public void setup(){
 size(400, 400);
 background(225);
+bl= 20;
 sierpinski(50, height - 50, 300);
 }
 public void draw()
 {
+
 }
 
 public void sierpinski(int x, int y, int len) {
