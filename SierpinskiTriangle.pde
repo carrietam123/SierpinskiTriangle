@@ -1,3 +1,4 @@
+private int bl;
 public void setup()
 {
 size(400, 400);
@@ -6,7 +7,7 @@ sierpinski(50, height - 50, 300);
 }
 public void draw()
 {
-
+sierpinski;
 }
 
 public void sierpinski(int x, int y, int len) {
