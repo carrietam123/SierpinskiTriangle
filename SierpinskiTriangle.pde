@@ -7,7 +7,6 @@ sierpinski(50, height - 50, 300);
 }
 public void draw()
 {
-sierpinski;
 }
 
 public void sierpinski(int x, int y, int len) {
